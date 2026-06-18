@@ -1,0 +1,6 @@
+{
+  "name": "الحاسبة الشاملة",
+  "description": "آلة حاسبة ذكية وشاملة لكل الاحتياجات بتصميم عصري فائق الجمال مخصص للمصمم Akram Al-Jabouri مع ميزات علمية وتحويل وحدات وحسّابات متكاملة",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
